@@ -26,7 +26,7 @@ public class SpawnHandler : MonoBehaviour
 
         currentBomb = Instantiate(bombPrefab, trackedImage.transform);
 
-        currentBomb.transform.localPosition = Vector3.zero;
+        currentBomb.transform.localPosition = Vector3.zero + new Vector3(0, .1f, 0);
         currentBomb.transform.localRotation = Quaternion.identity;
 
 

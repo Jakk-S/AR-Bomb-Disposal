@@ -1,0 +1,10 @@
+# ninja log v5
+119	6737	8133008140189242	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	de493a7ac9515148
+86	6900	8133008142138231	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ee5da48dd759f863
+134	7003	8133008142097045	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	953cdab5bd6cdd6
+69	7136	8133008143595602	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	762d6df3ecdaafbd
+149	7269	8133008144079080	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	202b63ed55d3337
+103	7711	8133008149017447	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d85496465e717515
+165	8265	8133008154938992	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4a5321ff741cca1d
+1	8491	8133008157690936	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a3bb2beabeafc2de
+8492	8924	8133008162128041	C:/Users/jakks/Documents/GitHub/AR Bomb Disposal/ARBombDisposal/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3v2y2t38/obj/arm64-v8a/libgame.so	57fdffcba90776ac
